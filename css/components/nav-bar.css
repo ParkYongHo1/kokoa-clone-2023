@@ -29,3 +29,12 @@
     left: 15px;
     bottom: 15px;
   }
+  .nav__dot{
+    background-color: tomato;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    position: absolute;
+    left: 28px;
+    bottom: 27px;
+  }
